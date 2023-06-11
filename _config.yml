@@ -4,7 +4,7 @@ subtitle:
 email: noah@perez.productions
 description: I provide video production services in Gainesville, Florida.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://192.168.1.199 # the base hostname & protocol for your site
+url: https://perez.productions # the base hostname & protocol for your site
 author: Noah Perez
 
 # homepage tiles
