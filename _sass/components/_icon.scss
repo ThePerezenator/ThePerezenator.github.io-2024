@@ -9,7 +9,7 @@
 	.icon {
 		@include icon;
 		border-bottom: none;
-		position: relative;
+
 
 		> .label {
 			display: none;
@@ -20,7 +20,10 @@
 				background-color: _palette(fg-bold);
 				border-radius: 100%;
 				color: _palette(bg);
-				display: inline-block;
+				align-items: center;
+				display: flex;
+				justify-content: center;
+				flex-direction: column;
 				height: 2em;
 				line-height: 2em;
 				text-align: center;
