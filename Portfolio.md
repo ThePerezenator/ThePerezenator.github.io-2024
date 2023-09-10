@@ -2,7 +2,7 @@
 layout: post
 title: Portfolio
 description: View our previous works and projects.
-image: assets/images/BTS2.jpg
+image: assets/images/BTS3.jpg
 nav-menu: true
 ---
 
