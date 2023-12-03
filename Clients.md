@@ -2,7 +2,7 @@
 title: Clients
 layout: page
 description: 'View our previous clients.'
-image: assets/images/BTS1.jpg
+image: assets/images/BTS2.jpg
 nav-menu: true
 ---
 
@@ -23,23 +23,39 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section style="margin 0 auto;">
 		<div class="content">
-			<a href="https://www.sbac.edu/buchholz">
-				<img width="400 vw" height="100%" src="assets/images/BHS.png" style="border-radius: 50%;" alt="Buchholz Student Government">
+			<a href="https://www.sbac.edu/buchholz" width="166 vw" height="166 vw">
+				<img src="assets/images/BHS.png" style="border-radius: 50%;" alt="Buchholz Student Government">
+				<p>Buchholz Student Council</p>
 			</a>
 		</div>
 		<div class="content">
-			<a href="https://qopacademy.org">
-				<img width="400 vw" height="100%" src="assets/images/QOP.jpeg" style="border-radius: 50%;" alt="Queen of Peace Catholic Academy">
+			<a href="https://qopacademy.org" width="166 vw" height="166 vw">
+				<img src="assets/images/QOP.jpeg" style="border-radius: 50%;" alt="Queen of Peace Catholic Academy">
+				<p>Queen of Peace Catholic Academy</p>
 			</a>
 		</div>
 		<div class="content">
-			<a href="https://sites.google.com/gm.sbac.edu/buchholz-afjrotc/home">
-				<img width="400 vw" height="100%" src="assets/images/BHSAFJROTC.png" style="border-radius: 50%;" alt="Buchholz AF JROTC">
+			<a href="https://www.onesixone.ventures" width="166 vw" height="166 vw">
+				<img src="assets/images/ONESIXONE.png" style="border-radius: 50%;" alt="PAGASA">
+				<p>One Six One Ventures</p>
 			</a>
 		</div>
 		<div class="content">
-			<a href="http://www.pagasagainesville.org/news.html">
-				<img width="400 vw" height="100%" src="assets/images/PAGASA.png" style="border-radius: 50%;" alt="PAGASA">
+			<a href="https://sites.google.com/gm.sbac.edu/buchholz-afjrotc/home" width="166 vw" height="166 vw">
+				<img src="assets/images/BHSAFJROTC.png" style="border-radius: 50%;" alt="Buchholz AF JROTC">
+				<p>Buchholz AFJROTC</p>
+			</a>
+		</div>
+		<div class="content">
+			<a href="https://sites.google.com/gm.sbac.edu/academyofentrepreneurship/home" width="166 vw" height="166 vw">
+				<img src="assets/images/AOE.png" style="border-radius: 50%;" alt="PAGASA">
+				<p>Academy of Entrepreneurship</p>
+			</a>
+		</div>
+		<div class="content">
+			<a href="http://www.pagasagainesville.org/news.html" width="166 vw" height="166 vw">
+				<img src="assets/images/PAGASA.png" style="border-radius: 50%;" alt="PAGASA">
+				<p>PAGASA Gainesville</p>
 			</a>
 		</div>
 	</section>
