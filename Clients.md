@@ -2,7 +2,7 @@
 title: Clients
 layout: page
 description: 'View our previous clients.'
-image: assets/images/BTS2.jpg
+image: assets/images/BTS9.jpg
 nav-menu: true
 ---
 
